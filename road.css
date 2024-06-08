@@ -642,6 +642,15 @@ background-color:black;
   background-size: contain;
   background-repeat: no-repeat;
 }
+#cb5
+{
+    background-image: url("weather.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+}
 #c5
 {
   background-image: url("https://st2.depositphotos.com/32927174/47159/v/600/depositphotos_471596498-stock-video-glowing-neon-line-storm-icon.jpg");
